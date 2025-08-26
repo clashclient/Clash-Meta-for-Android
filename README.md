@@ -1,2 +1,1 @@
-# Clash-Meta-for-Android
-Clash Meta for Android 官网下载资源分享
+# Clash Meta for Android 官网下载资源分享
